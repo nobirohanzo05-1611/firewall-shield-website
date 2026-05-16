@@ -1,0 +1,17 @@
+{
+  "name": "firewall-shield-website",
+  "version": "1.0.0",
+  "description": "Firewall Security Shield - Multi-layer device protection with one-click activation",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "firewall",
+    "security",
+    "device protection",
+    "mobile security"
+  ],
+  "author": "nobirohanzo05-1611",
+  "license": "MIT"
+}
